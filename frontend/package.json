@@ -2,6 +2,11 @@
   "name": "team-task-manager-frontend",
   "version": "1.0.0",
   "private": true,
+
+  "engines": {
+    "node": "20.x"
+  },
+
   "dependencies": {
     "@vitejs/plugin-react": "^4.0.0",
     "axios": "^1.6.2",
