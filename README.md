@@ -7,7 +7,7 @@
 
 ## Project Overview
 
-TaskFlow is a full-stack Team Task Management Web Application built as part of a coding assignment. It allows multiple users to collaborate on projects, assign and track tasks, and monitor team progress — inspired by tools like Trello and Asana.
+It is a full-stack Team Task Management Web Application built as part of a coding assignment. It allows multiple users to collaborate on projects, assign and track tasks, and monitor team progress — inspired by tools like Trello and Asana.
 
 The application supports two roles — **Admin** and **Member** — with distinct permissions for managing projects and tasks. It is fully deployed on **Railway** with a React frontend and a Node.js/Express backend connected to **MongoDB Atlas**.
 
