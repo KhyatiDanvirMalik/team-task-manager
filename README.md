@@ -1,9 +1,5 @@
-# TaskFlow-Team Task Manager
+# TaskFlow - Team Task Manager
 
-## Table of Contents
-
-
----
 
 ## Project Overview
 
